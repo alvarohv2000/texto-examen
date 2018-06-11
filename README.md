@@ -1,8 +1,8 @@
 # texto-examen
 https://www.computersciencezone.org/10-skills-necessary-coding/  
-##Nicolas:
+## Nicolas:
 
-#*Autosuficiencia*
+# *Autosuficiencia*
 
 Este es enorme Cuando comienzas a codificar, puede sentirse completamente abrumador. ¿Deberías enfocarte en la parte delantera o trasera? ¿Qué lenguajes de programación debería usar? ¿Dónde empezar? Teniendo en cuenta que la única forma de comer un elefante es un bocado a la vez, elige algo y comienza. Hay infinitos recursos donde puede aprender a codificar, pero depende de usted buscarlos y participar con ellos. Habrá momentos en los que querrá darse por vencido, o alguien más le mostrará cómo hacer algo, pero cuanto más se resista a esos impulsos y trate de fallar por sí mismo, mayor será su éxito a largo plazo. Para tener éxito en la codificación, tendrás que dominar la impaciencia, la frustración, la distracción y la dependencia de fuerzas externas para resolver problemas técnicos (algo de lo que todos dependemos cada vez más). Para combatir estos obstáculos, hay varias cosas que puedes hacer. El primero es aceptar la responsabilidad.
 
