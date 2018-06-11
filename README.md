@@ -1,14 +1,15 @@
 # texto-examen
 https://www.computersciencezone.org/10-skills-necessary-coding/  
-## Nicolas:
+##Nicolas:
 
-# *Autosuficiencia*
+#*Autosuficiencia*
 
 Este es enorme Cuando comienzas a codificar, puede sentirse completamente abrumador. ¿Deberías enfocarte en la parte delantera o trasera? ¿Qué lenguajes de programación debería usar? ¿Dónde empezar? Teniendo en cuenta que la única forma de comer un elefante es un bocado a la vez, elige algo y comienza. Hay infinitos recursos donde puede aprender a codificar, pero depende de usted buscarlos y participar con ellos. Habrá momentos en los que querrá darse por vencido, o alguien más le mostrará cómo hacer algo, pero cuanto más se resista a esos impulsos y trate de fallar por sí mismo, mayor será su éxito a largo plazo. Para tener éxito en la codificación, tendrás que dominar la impaciencia, la frustración, la distracción y la dependencia de fuerzas externas para resolver problemas técnicos (algo de lo que todos dependemos cada vez más). Para combatir estos obstáculos, hay varias cosas que puedes hacer. El primero es aceptar la responsabilidad.
 
 Usted tiene la mayor influencia sobre dónde se encuentra, qué sabe, sus capacidades y cómo cambiarlas todas. Nunca es demasiado tarde para reconocer esto y cambiar su enfoque y esfuerzos. Una vez que haya asumido la responsabilidad, la información que consume y cómo la aplica (su interés, estudio y esfuerzo) determinará su capacidad de trascender sus limitaciones (en este caso, no podrá programar ni aprender a hacerlo). Es importante tener un objetivo en mente. ¿Por qué quieres codificar? ¿Qué problema quieres resolver, o qué proyecto esperas manifestar? Conocer las respuestas a estas preguntas lo ayudará a delimitar dónde enfocar sus esfuerzos, qué idiomas aprender, etc. Finalmente, la autosuficiencia se reduce a las decisiones que toma. No puedes simplemente ponerme a trabajar a ciegas. De la misma manera en que necesita tener objetivos para los cuales el trabajo está dirigido, debe elegir un camino que lo lleve hacia ellos, independientemente de lo que otros hayan hecho, o dejándolo al azar.
 
-Álvaro:
+## *Álvaro:*
+# *Cosas Abstractas*
 
 En días terriblemente calurosos, usted tiene la opción de rebelarse contra el calor, jadeando, Puffing, y dejar que la agitación se sobrecalientan aún más. O puedes ceder a ella. Acepte que usted está cocinando en el sol, imagínese que se derrite en el pavimento, borrando la separación del calor en su mente. La codificación es extremadamente difícil. Nada de lo que has leído aquí, ni leído en otro lugar debe ser interpretado de manera diferente.El pensamiento abstracto es también la capacidad de pensar sobre un tema, objeto o proyecto en muchos niveles a la vez. Ser capaz de equilibrar diferentes símbolos, comandos y procesos que están en su lugar, que se ejecutan automáticamente, frente a los que usted necesita para supervisar más directamente/renovar es una parte importante, a menudo pasa por encima de la codificación.El pensamiento abstracto se mejora a menudo a través de discusiones con otros. Implica la voluntad de ver las cosas desde un ángulo diferente, o de sacar conclusiones analíticas de lo que pueda parecer sencillo.
 
